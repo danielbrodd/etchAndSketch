@@ -44,3 +44,5 @@ function reloadGrid() {
 window.onload = () => {
     setUpGrid(16);
 }
+
+//Didn't add 'extra credit features
